@@ -1,0 +1,19 @@
+{
+  "name": "mymodule",
+  "version": "1.0.0",
+  "description": "This is my sample module",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "console.log('generated');"
+  },
+  "keywords": [
+    "test",
+    "only"
+  ],
+  "author": "gheric santiago",
+  "license": "ISC"
+}
